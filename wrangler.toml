@@ -1,0 +1,10 @@
+name = "feeds-entitlements"
+main = "src/worker.ts"
+compatibility_date = "2026-05-01"
+
+[[kv_namespaces]]
+binding = "ENTITLEMENTS"
+id = "71c328c1df794b2cb80b3a3d96eb86f9"
+
+[observability]
+enabled = true
